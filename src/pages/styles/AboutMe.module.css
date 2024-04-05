@@ -1,9 +1,12 @@
 .bioSection {
     margin-top: 2rem;
+    display: flex;
+    justify-content: center;
   }
   .avatar {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 250px;
     border-radius: 50%;
+    margin: 50px;
   }
   

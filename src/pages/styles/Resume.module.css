@@ -1,8 +1,19 @@
 .resumeSection {
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
     margin-top: 2rem;
-  }
-  .listProficiencies {
+}
+
+.listProficiencies {
     list-style-type: none;
-    padding: 0;
-  }
+    padding: 10;
+    display: grid;
+    grid-template-columns: repeat( 2, minmax(900px, 1fr));
+    grid-gap: 20px;
+}
   
