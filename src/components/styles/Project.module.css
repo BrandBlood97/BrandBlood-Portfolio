@@ -1,0 +1,22 @@
+.project {
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  .projectImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: .25rem;
+  }
+  .projectTitle {
+    font-size: 1.25rem;
+    margin-top: .5rem;
+  }
+  .projectLinks {
+    margin-top: .5rem;
+  }
+  .link {
+    margin-right: .5rem;
+  }
+  
