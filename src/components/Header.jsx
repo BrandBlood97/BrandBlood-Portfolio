@@ -2,7 +2,7 @@ import React from 'react';
 import Navigation from './Navigation';
 
 const Header = () => (
-  <header>
+  <header className={'${styles.header} container'}>
     <h1>Brandon Bloodsworth</h1>
     <Navigation />
   </header>

@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  .navItem {
+    margin-right: 1rem;
+  }
+  .navLink {
+    text-decoration: none;
+    color: #007bff;
+  }
+  .navLinkActive {
+    font-weight: bold;
+  }
+  
