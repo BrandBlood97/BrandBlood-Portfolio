@@ -1,4 +1,4 @@
-# BrandBlood-Portfolio
+# BrandBlood-Portfolio(WIP)
 
 Welcome to the repository for my Web Developer Portfolio! This single-page application (SPA) is designed to showcase my skills, projects, and professional background in web development. Built with a focus on ease of navigation and user experience, my portfolio highlights my journey as a developer and aims to engage visitors with a comprehensive overview of my capabilities.
 
